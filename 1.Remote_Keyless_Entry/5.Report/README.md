@@ -1,4 +1,29 @@
+# Module 3- GETTING STARTED WITH ARM BASED MICROCONTROLLER.
+
+## PROJECT TITLE: 1.REMOTE KEYLESS ENTRY(RKE).
+
+---
+## Table of content.
+1. Abstract and Introduction.
+    
+    1. Requirements.
+    1. High level requirements.
+    1. Low level requirements.
+    1. 5W's & 1H and S.W.O.T analysis.
+2. Architecture.
+     1. Structural diagram.
+     1. Behavioural diagram.
+     1. Flowchart.
+
+3. Implementation.
+4. Test plan and output.
+     1. HIGH LEVEL TEST PLAN.
+     2. LOW LEVEL TEST PLAN.
+5. Application.
+6. References.
+---
 # REMOTE KEYLESS ENTRY(RKE).
+
 # 1.Abstract and Introduction :
 # 1.1 Abstract.
 Remote keyless entry (RKE) has captivated automobile buyers, as evidenced by the popularity of RKE on new automobiles and as an after-market item. This application note provides an overview of RKE systems and discusses how they meet requirements such as range, battery life, reliability, cost, and regulatory compliance. It shows some circuits and design approaches and offers some predictions for future systems, which will include two-way communications.
@@ -69,5 +94,19 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 | 02 |  Status of Door UNLOCK |All led's are turned on|All led's are turned on| Pass |
 | 03 |  Status of ACTIVATION/DEACTIVATION of the the alarm |All led's are turned off in clock wise direction|All led's are turned off in clock wise direction| Pass |
 | 04 |  APPROACH LIGHT status | All led's are turned on in anti-clockwise direction|All led's are turned on in anti-clockwise direction| Pass |
+
+## APPLICATIONS of remote keyless entry.
+Used in various fields such as;
+1. Automobiles.
+2. Audio and Broadcast.
+3. Automotive.
+4. Communications.
+5. Computing.
+6. Horticulture.
+7. Industrial.
+8. Instrumentation.
+9. Medical.
+
+
 
 
