@@ -24,28 +24,22 @@ HLR1	System shall display Alarm status of the car
 HLR2	system shall display Display status of the car
 HLR3	System shall display Battery status of the car
 
-# 4)5 W's 1 H
+---
+## 5W's & 1H and S.W.O.T analysis is in the below table 
 
-## Who :
-Driver - The one who drives the car.
-## What :
-Thing - We are operating everything through BiCom.
-## When :
-Time - Whenever people are travelling.
-## Where :
-place - Anywhere in the locality up to a certain distance.
-## Why :
-Reason - To control their car easily and safely.
-## How :
-Steps - Just using RKE.
+ ### 4W's & 1H
 
-# 5)SWOT ANALYSIS:
-## Strengths:
-No need of human interaction with car Status with different features is provided. "Easy usage of features with a user press button.
-## Weaknesses:
-Limited Usage Range Less security to our system Interrupts or Timers would be good instead of delay so system works faster.
-## Opportunities:
-Wide scope in field of automobiles Cost Efficient Car features are tremendous which increases car value.
-## Threats:
-Less accurate timing We should wait until completion of a task to run an other task.
+1) what ?
+  * Wireless key for the smart cars.
+2) who ?
+  * The people who wants to control their car wirelessely.
+3) when ?
+  *  User want to locking and unlocking, alarm function activation.
+4) where ?
+  * Outside/Inside and near the car or at a frequent range.
+5) how ?
+  * By pressing the blue button in the remotr key.
+----------------------
 
+### SWOT Analysis :
+![WhatsApp Image 2022-03-11 at 10 54 00 PM](https://user-images.githubusercontent.com/98872154/157916632-0d024d0d-cc94-4e9f-a9e0-ac035f76f493.jpeg)
