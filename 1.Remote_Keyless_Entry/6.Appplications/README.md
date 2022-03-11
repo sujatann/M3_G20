@@ -1,11 +1,11 @@
-# 2.ARCHITECTURE.
-## 2.1 BEHAVIOURAL DIAGRAM.
-![cdd](https://user-images.githubusercontent.com/46914341/157880088-70a2b4bf-792d-4561-b2a0-c6d810219fc0.PNG)
-
-## 2.2 STRUCTURAL DIAGRAM.
-![WW2](https://user-images.githubusercontent.com/46914341/157887776-6371345e-daeb-4853-be25-b6a7562ff75f.PNG)
-
-
-
-
-
+## APPLICATIONS of remote keyless entry.
+Used in various fields such as;
+1. Automobiles.
+2. Audio and Broadcast.
+3. Automotive.
+4. Communications.
+5. Computing.
+6. Horticulture.
+7. Industrial.
+8. Instrumentation.
+9. Medical.
