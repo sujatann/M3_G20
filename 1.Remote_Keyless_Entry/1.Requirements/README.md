@@ -16,3 +16,21 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 
 
 # Requirements
+## HIGH LEVEL REQUIREMENTS.
+| ID | HIGH LEVEL REQUIREMENTS |
+|----|-------------------------|
+| HLR1 | The system shall lock the door.|
+| HLR2 | The system shall unlock the door.|
+| HLR3 | The system shall activate/deactivate the alarm|
+| HLR4 |The system shall be able to appraoch the light|
+
+
+## LOW LEVEL REQUIREMENTS.
+| ID | HIGH LEVEL REQUIREMENTS |
+|----|-------------------------|
+| LLR1.1_HLR1 | The system shall turn on all the LED's at the same time.|
+| LLR2.1_HLR2 | The system shall turn off all the LED's at the same time.|
+| LLR3.1_HLR3 | The system shall turn on all the LED's at the same time in clock-wise direction.|
+| LLR3.2_HLR3 | By this action it indicates alarm activation/deactivation. |
+| LLR4.1_HLR4 | The system shall turn on all the LED's at the same time in anti=clockwise direction.|
+| LLR4.2_HLR4 | By this action it indicates the approach of light. |
