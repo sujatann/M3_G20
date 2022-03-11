@@ -95,7 +95,7 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 | 03 |  Status of ACTIVATION/DEACTIVATION of the the alarm |All led's are turned off in clock wise direction|All led's are turned off in clock wise direction| Pass |
 | 04 |  APPROACH LIGHT status | All led's are turned on in anti-clockwise direction|All led's are turned on in anti-clockwise direction| Pass |
 
-## APPLICATIONS of remote keyless entry.
+# 5.APPLICATIONS of remote keyless entry.
 Used in various fields such as;
 1. Automobiles.
 2. Audio and Broadcast.
@@ -106,6 +106,10 @@ Used in various fields such as;
 7. Industrial.
 8. Instrumentation.
 9. Medical.
+
+# 6.REFERENCES.
+1.To understand few related concepts.
+https://www.mouser.in/applications/automotive-keyless-entry/#:~:text=Remote%20keyless%20entry%20systems%2C%20now,accessibility%20to%20a%20higher%20level.
 
 
 
