@@ -1,5 +1,4 @@
 
-=======
 # REMOTE KEYLESS ENTRY(RKE).
 # 1.Abstract and Introduction :
 # 1.1 Abstract.
