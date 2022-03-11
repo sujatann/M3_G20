@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-![WhatsApp Image 2022-03-10 at 9 44 43 PM](https://user-images.githubusercontent.com/98872154/157706607-9ae7d82d-0ed9-43ee-ba2c-58fbac971449.jpeg)
+
 =======
 # REMOTE KEYLESS ENTRY(RKE).
 # 1.Abstract and Introduction :
@@ -45,4 +44,3 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 ![wh](https://user-images.githubusercontent.com/46914341/157852408-9a0aac33-1e1e-4190-9f0e-55f67aaf45a1.PNG)
 
 
->>>>>>> c7344f22be0f5aaf9d4a1cf70f76c9c7e19ff452
