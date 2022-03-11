@@ -37,20 +37,18 @@ It shall display battery information of car for Three User Button Clicks.
 
 ---
 
-# 4)5 W's 1 H
+# 4)4W's & 1H
 
-## Who :
-Driver - The one who drives the car.
-## What :
-Thing - We are operating everything through BiCom.
-## When :
-Time - Whenever people are travelling.
-## Where :
-place - Anywhere in the locality up to a certain distance.
-## Why :
-Reason - To control their car easily and safely.
-## How :
-Steps - Just using RKE.
+1) what ?
+  * Wireless key for the smart cars.
+2) who ?
+  * The people who wants to control their car wirelessely.
+3) when ?
+  *  User want to locking and unlocking, alarm function activation.
+4) where ?
+  * Outside/Inside and near the car or at a frequent range.
+5) how ?
+  * By pressing the blue button in the remotr key.
 
 # 5)SWOT ANALYSIS:
 ## Strengths:
