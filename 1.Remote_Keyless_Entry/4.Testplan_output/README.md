@@ -13,5 +13,5 @@
 |---------|-------------|-----------------|---------------|--------|
 | 01 |  Status of Door LOCK |All led's are turned on|All led's are turned on| Pass|
 | 02 |  Status of Door UNLOCK |All led's are turned on|All led's are turned on| Pass |
-| 03 |  Status of ACTIVATION/DEACTIVATION of the the alarm |All led's are turned on in clock wise direction|All led's are turned on in clock wise direction| Pass |
+| 03 |  Status of ACTIVATION/DEACTIVATION of the the alarm |All led's are turned off in clock wise direction|All led's are turned off in clock wise direction| Pass |
 | 04 |  APPROACH LIGHT status | All led's are turned on in anti-clockwise direction|All led's are turned on in anti-clockwise direction| Pass |
