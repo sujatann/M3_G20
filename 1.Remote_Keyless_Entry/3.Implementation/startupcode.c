@@ -1,3 +1,5 @@
+// STARTUP CODE_STM32f407vgtx
+
 #include<stdint.h>
 
 #define SRAM_START  0x20000000U
