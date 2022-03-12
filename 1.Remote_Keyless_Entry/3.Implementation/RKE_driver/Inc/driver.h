@@ -3,7 +3,7 @@
 #ifndef DRIVER_H_
 #define DRIVER_H_
 
-#include "MyStm32f407xx.h"
+#include "DRIVER.h"
 
 
 /*
@@ -31,11 +31,6 @@ typedef struct
 
 }GPIO_Handle_t;
 
-
-/*
- * @GPIO_PIN_NUMBERS
- * GPIO pin numbers
- */
 #define GPIO_PIN_NO_0  				0
 #define GPIO_PIN_NO_1  				1
 #define GPIO_PIN_NO_2  				2
@@ -53,10 +48,7 @@ typedef struct
 #define GPIO_PIN_NO_14 				14
 #define GPIO_PIN_NO_15 				15
 
-/*
- * @GPIO_PIN_MODES
- * GPIO pin possible modes
- */
+
 #define GPIO_MODE_IN 		0
 #define GPIO_MODE_OUT 		1
 #define GPIO_MODE_ALTFN 	2
@@ -73,10 +65,7 @@ typedef struct
 #define GPIO_OP_TYPE_OD   1
 
 
-/*
- * @GPIO_PIN_SPEED
- * GPIO pin possible output speeds
- */
+/
 #define GPIO_SPEED_LOW			0
 #define GPIO_SPEED_MEDIUM		1
 #define GPIO_SPEED_FAST			2
